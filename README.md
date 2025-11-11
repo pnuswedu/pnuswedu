@@ -20,5 +20,5 @@
 - [결과물 보기 (GitHub)](https://github.com/orgs/The-5th-PNU-Convergence-SW-Hackathon/repositories)  
 - [스케치 영상 (YouTube)](https://www.youtube.com/watch?v=tdykttC6nw4)
 
-### 2023 제4회 창의융합해커톤  
+### 2021 제4회 창의융합해커톤  
 - [스케치 영상 (YouTube)](https://www.youtube.com/watch?v=aYzscihQpvI)
