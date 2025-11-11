@@ -1,16 +1,18 @@
-## Hi there 👋
+부산대학교 소프트웨어융합교육원에 방문해주셔서 감사합니다.
+부산대학교는 2016년도에 과학기술정보통신부의 SW중심대학 지원사업에 선정되어, 부산시의 부산형 SW인재사관학교 사업과 함께 수행하게 되었습니다. 소프트웨어융합교육원은 두 사업의 원활한 수행을 위해 같은 해에 설립하게 되었습니다.
 
-<!--
-**pnuswedu/pnuswedu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+미래 산업을 선도할 디지털 신기술 분야의 SW전문인력과 SW융합인력 양성을 목적으로 SW전공교육과 SW융합교육을 운영하며, 대학 내 전교생을 대상으로 SW기초교육을, 그리고 초중고 학생들과 일반인들을 대상으로 SW캠프 및 특강, 다양한 경진대회, 개방형 온라인 SW교육 등을 수행하고 있습니다.
 
-Here are some ideas to get you started:
+특히, 디지털 신기술 분야 (인공지능, 블록체인, 클라우드, 빅데이터, 차세대 바이오헬스 등)의 교육과정 개설 및 운영, 국내외 기업 인턴십 실시, 청소년 대상 SW캠프 및 해카톤 대회 운영, 교사연수 프로그램 등을 운영하여 SW의 기초부터 고급과정까지의 SW교육을 체계적으로 수행하고 있습니다.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+앞으로도 미래사회가 지향하는 소프트웨어교육의 거점 기관이 될 수 있도록 지속적으로 노력할 것입니다.
+
+SW창의융합해커톤 결과물 및 스케치 확인
+- 2025 제 6회 창의융합해커톤
+결과물 : https://github.com/orgs/2025-PNU-SW-Hackathon/repositories
+스케치 : https://www.youtube.com/watch?v=BKd1qNmUg_I
+- 2024 제 5회 창의융합해커톤
+결과물 : https://github.com/orgs/The-5th-PNU-Convergence-SW-Hackathon/repositories
+스케치 : https://www.youtube.com/watch?v=tdykttC6nw4&t=196s
+- 2023 제 4회 창의융합해커톤
+스케치 : https://www.youtube.com/watch?v=aYzscihQpvI
